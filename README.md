@@ -10,7 +10,11 @@ Neste projeto, foi criado um modelo lógico de banco de dados utilizando o MySQL
 
 <h2><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/90b72e2d-a809-4aae-a30d-97d5b1015b4f"> Layout </h2>
 
+<div align="center">
+
 ![ecommerce_sql](https://github.com/christianebs/sql-ecommerce/assets/108686840/66b6e114-9b68-45a9-9bab-6a98ae75cffe)
+
+</div>
 
 <h2><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/5c7bf7c9-1183-43a0-9b86-49812dad39fc"> Informações </h2>
 
